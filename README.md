@@ -2,6 +2,7 @@ Qt-basic-interpreter
 ====================
 
 Basic interpreter written in C++ with a small GUI in Qt.
+
 This content is released under the (http://opensource.org/licenses/mit-license.php) MIT License.
 
 The MIT License (MIT)
